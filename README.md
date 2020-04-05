@@ -1,7 +1,7 @@
+
+![](https://firebasestorage.googleapis.com/v0/b/marketplace-2b244.appspot.com/o/Free_Sample_By_Wix.jfif?alt=media&token=f1f28921-c344-4767-bdde-66e6e9b6cbad)
 # kal_tak_news
-
-A new Flutter project.
-
+ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
